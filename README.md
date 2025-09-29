@@ -16,9 +16,8 @@ I am a MSc. Electrical Engineer and dedicated researcher. With my expertise in S
 
 <!-- I firmly believe in the power of knowledge and its ability to shape our surroundings. In all my endeavors, I strive to acquire wisdom and understanding, as mentioned in Proverbs 2:6: "For the Lord gives wisdom, from his mouth come knowledge and understanding." 🙏🏻 This guiding principle motivates me to constantly seek new knowledge and apply it to make a positive difference. -->
 
->"The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it.” 
->
->Steve Jobs
+> [!IMPORTANT]
+> "The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it.”, Steve Jobs
 
 ## Talking about Personal Stuff:
 
