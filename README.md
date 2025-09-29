@@ -22,7 +22,7 @@ I am a MSc. Electrical Engineer and dedicated researcher. With my expertise in S
 
 ## Talking about Personal Stuff:
 
-<a href="https://jonathantsilva.com/"><img align="right" alt="GIF" src="https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/JTS2.png" height="180"></a>
+<a href="https://jonathantsilva.com/"><img align="right" alt="GIF" src="https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/jts-logo-rounded-square.png" height="160"></a>
 
 * ✨ Learning concepts and applying them to other problems;
 * 📊 Lover of productivity and management;
