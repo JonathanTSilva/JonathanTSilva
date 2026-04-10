@@ -1,9 +1,9 @@
-## Hi there, I'm <a href="https://jonathantsilva.com/" target="_blank">Jonathan Tobias</a> 👊🏻
+## Hi there, I'm <a href="https://jontobias.com/" target="_blank">Jonathan Tobias</a> 👊🏻
 
 <a href="https://ko-fi.com/jonathantsilva" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" align="right" style="height: 30px !important;width: 127px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
-[![](https://img.shields.io/badge/Website-0678E3?style=for-the-badge)](https://jonathantsilva.com/)
+[![](https://img.shields.io/badge/Website-0678E3?style=for-the-badge)](https://jontobias.com/)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/JonathanTSilva/)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JonathanTSilva/)
 [![](https://img.shields.io/badge/Orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2511-259X)
@@ -21,7 +21,7 @@ I am a MSc. Electrical Engineer and dedicated researcher. With my expertise in S
 
 ## Talking about Personal Stuff:
 
-<a href="https://jonathantsilva.com/"><img align="right" alt="GIF" src="https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/jts-logo-rounded-square.png" height="160"></a>
+<a href="https://jontobias.com/"><img align="right" alt="GIF" src="https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/jts-logo-rounded-square.png" height="160"></a>
 
 * ✨ Learning concepts and applying them to other problems;
 * 📊 Lover of productivity and management;
