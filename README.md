@@ -43,6 +43,7 @@ I am a MSc. Electrical Engineer and dedicated researcher. With my expertise in S
 <!-- ## Programming Languages and Technologies:
 <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/c-original.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/python.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/shell.svg' height='30' hspace="20" />  <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/html.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/css.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/js.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/latex.png' width='33' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/sql.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/git.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/nodejs.svg' width='33' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/react.svg' width='33' hspace="20" /> -->
 
+<!--
 ## Subtitles for my Repository:
 | Initials     | Description              |  ▫  | Initials     | Description                |  ▫  | Initials     | Description              |
 | :----------- | :-----------:            | --- | :----------- | :-----------:              | --- | :----------- | :-----------:            |
@@ -50,7 +51,7 @@ I am a MSc. Electrical Engineer and dedicated researcher. With my expertise in S
 | FP           | 🧾 Final Project         |  ▫  | CM           | 📖 Class Material          |  ▫  |  FK            | :octocat: Fork          |
 | TP           | 📚 Templates             |  ▫  | ST           | ⚙️ Settings                 |  ▫  |  OV          |  :closed_umbrella: Obsidian Vault  |
 | HL           | 🛠 HomeLab               |  ▫  | [Kebab]      | :heavy_plus_sign: Projects |  ▫  |              |                          |
-
+-->
 
 <!-- SNAKE CONTRIBUTIONS
 ## Contributions ✔:
