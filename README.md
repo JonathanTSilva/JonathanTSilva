@@ -27,7 +27,7 @@ I am a MSc. Electrical Engineer and dedicated researcher. With my expertise in S
 * 📊 Lover of productivity and management;
 * 🤝 Interested in open source and free software projects;
 * 💬 Ask me about anything, I am happy to help you and learn together;
-* 📫 How to reach me: jonathantosilva@hotmail.com
+* 📫 How to reach me: jonathantosilva@hotmail.com or via LinkedIn.
 
 
 <!-- ## My GitHub Stats: -->
