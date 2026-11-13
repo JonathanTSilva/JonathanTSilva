@@ -1,58 +1,64 @@
-## Hi there, I'm <a href="https://jontobias.com/" target="_blank">Jonathan Tobias</a> 👊🏻
+<!-- markdownlint-disable MD033 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Jonathan Tobias da Silva, Senior Embedded Software Engineer, MSc EE, Brazil" width="100%">
+</picture>
+<!-- markdownlint-enable MD033 -->
 
-<a href="https://ko-fi.com/jonathantsilva" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" align="right" style="height: 30px !important;width: 127px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+Jonathan builds embedded and industrial-automation software and treats engineering organization as part of the work.
 
-[![](https://img.shields.io/badge/Website-0678E3?style=for-the-badge)](https://jontobias.com/)
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/JonathanTSilva/)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JonathanTSilva/)
-[![](https://img.shields.io/badge/Orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2511-259X)
-<!-- [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCEqsLtzTIW-M81vMbQ8msnQ/featured) -->
-<!-- [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.t@aluno.ifsp.edu.br) -->
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+  <a href="https://www.jontobias.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/cta-dark.svg">
+      <img src="assets/cta-light.svg" alt="Visit jontobias.com" height="56">
+    </picture>
+  </a>
+</p>
+<!-- markdownlint-enable MD033 -->
 
-## Glad to see you here! &nbsp; [![](https://views.whatilearened.today/views/github/JonathanTSilva/JonathanTSilva.svg)](http://github.com/JonathanTSilva/JonathanTSilva)
+## How I build
 
-I am a MSc. Electrical Engineer and dedicated researcher. With my expertise in Software Engineering and experience in the R&D department of the Industrial Automation sector, I have developed a profound passion for science and its potential to drive impactful change in the world. 
+[![Repos on standard](https://img.shields.io/endpoint?url=https%3A%2F%2Fjonathantsilva.github.io%2Fjts-ops%2Fbadge-compliance.json&style=flat-square)](https://www.jontobias.com/engineering/) [![CI green](https://img.shields.io/endpoint?url=https%3A%2F%2Fjonathantsilva.github.io%2Fjts-ops%2Fbadge-ci.json&style=flat-square)](https://www.jontobias.com/engineering/)
 
-<!-- I firmly believe in the power of knowledge and its ability to shape our surroundings. In all my endeavors, I strive to acquire wisdom and understanding, as mentioned in Proverbs 2:6: "For the Lord gives wisdom, from his mouth come knowledge and understanding." 🙏🏻 This guiding principle motivates me to constantly seek new knowledge and apply it to make a positive difference. -->
+```mermaid
+flowchart LR
+    A["Obsidian vault"] --> B["GitHub Project"]
+    B --> C["feat/#lt;issue#gt; PR"]
+    C --> D["shared CI · tests · scans"]
+    D --> E["release + docs"]
+    E --> F["jontobias.com"]
+```
 
-> [!IMPORTANT]
-> "The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it.”, Steve Jobs
+Handbook: [Naming](https://github.com/JonathanTSilva/.github/blob/main/handbook/naming.md) · [Branches and commits](https://github.com/JonathanTSilva/.github/blob/main/handbook/branches-and-commits.md) · [Repo anatomy](https://github.com/JonathanTSilva/.github/blob/main/handbook/repo-anatomy.md) · [Security](https://github.com/JonathanTSilva/.github/blob/main/handbook/security.md) · [AI assistance](https://github.com/JonathanTSilva/.github/blob/main/handbook/ai.md)
 
-## Talking about Personal Stuff:
+## Featured projects
 
-<a href="https://jontobias.com/"><img align="right" alt="GIF" src="https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/jts-logo-rounded-square.png" height="160"></a>
+| Project | What it does | Status |
+| :--- | :--- | :--- |
+| [scriptize](https://github.com/JonathanTSilva/scriptize) | Standardize the scripting environment to improve the maintainability, readability and efficiency of your scripts | [![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](https://www.repostatus.org/#active) [![CI](https://img.shields.io/github/actions/workflow/status/JonathanTSilva/scriptize/ci.yml?branch=main&style=flat-square&label=ci)](https://github.com/JonathanTSilva/scriptize/actions/workflows/ci.yml) [![Coverage](https://codecov.io/gh/JonathanTSilva/scriptize/graph/badge.svg)](https://codecov.io/gh/JonathanTSilva/scriptize) |
+| [qemulab](https://github.com/JonathanTSilva/qemulab) | A modern TUI for managing QEMU development environments | [![Status](https://img.shields.io/badge/status-wip-yellow?style=flat-square)](https://www.repostatus.org/#wip) [![CI](https://img.shields.io/github/actions/workflow/status/JonathanTSilva/qemulab/ci.yml?branch=main&style=flat-square&label=ci)](https://github.com/JonathanTSilva/qemulab/actions/workflows/ci.yml) [![Coverage](https://codecov.io/gh/JonathanTSilva/qemulab/graph/badge.svg)](https://codecov.io/gh/JonathanTSilva/qemulab) |
+| [uanalyser](https://github.com/JonathanTSilva/uanalyser) | Traffic analyser for intrusion detection in OPC UA networks | [![Status](https://img.shields.io/badge/status-inactive-silver?style=flat-square)](https://www.repostatus.org/#inactive) [![CI](https://img.shields.io/github/actions/workflow/status/JonathanTSilva/uanalyser/ci.yml?branch=main&style=flat-square&label=ci)](https://github.com/JonathanTSilva/uanalyser/actions/workflows/ci.yml) [![Coverage](https://codecov.io/gh/JonathanTSilva/uanalyser/graph/badge.svg)](https://codecov.io/gh/JonathanTSilva/uanalyser) |
+| [jts-website](https://github.com/JonathanTSilva/jts-website) | Personal bilingual website built with Astro and deployed to GitHub Pages | [![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](https://www.repostatus.org/#active) [![CI](https://img.shields.io/github/actions/workflow/status/JonathanTSilva/jts-website/ci.yml?branch=main&style=flat-square&label=ci)](https://github.com/JonathanTSilva/jts-website/actions/workflows/ci.yml) [![Coverage](https://codecov.io/gh/JonathanTSilva/jts-website/graph/badge.svg)](https://codecov.io/gh/JonathanTSilva/jts-website) |
+| [leetsheet](https://github.com/JonathanTSilva/leetsheet) | A TUI-based LeetCode cheatsheet for quick problem walkthroughs in your terminal | [![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](https://www.repostatus.org/#active) [![CI](https://img.shields.io/github/actions/workflow/status/JonathanTSilva/leetsheet/ci.yml?branch=main&style=flat-square&label=ci)](https://github.com/JonathanTSilva/leetsheet/actions/workflows/ci.yml) [![Coverage](https://codecov.io/gh/JonathanTSilva/leetsheet/graph/badge.svg)](https://codecov.io/gh/JonathanTSilva/leetsheet) |
+| [research-pump-cavitation](https://github.com/JonathanTSilva/research-pump-cavitation) | Diagnostic system for hydraulic pump failures by means of electric current analysis and machine learning tools | [![Status](https://img.shields.io/badge/status-inactive-silver?style=flat-square)](https://www.repostatus.org/#inactive) |
 
-* ✨ Learning concepts and applying them to other problems;
-* 📊 Lover of productivity and management;
-* 🤝 Interested in open source and free software projects;
-* 💬 Ask me about anything, I am happy to help you and learn together;
-* 📫 How to reach me: jonathantosilva@hotmail.com or via LinkedIn.
+## Latest writing
 
+<!-- writing:start -->
+- [Welcome](https://www.jontobias.com/blog/2026-04-welcome.en) (Apr 20, 2026)
+- [Markdown Cheatsheet — Website Writing Reference](https://www.jontobias.com/blog/2026-03-markdown-cheatsheet.en) (Mar 30, 2026)
 
-<!-- ## My GitHub Stats: -->
-<!-- Utilizar este quando estiver mais linguagens e igualar as larguras das imagens, para ficarem side-by-side - normal é h=180 e w=420-->
-<!-- <p float="left">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=JonathanTSilva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTSilva&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p> -->
+More on the [blog](https://www.jontobias.com/blog/).
+<!-- writing:end -->
 
-<!-- Utilizar este quando estiver desalinhando as imagens, uma em cima da outra 
-![](https://github-readme-stats.vercel.app/api?username=JonathanTSilva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTSilva&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8) -->
+## Now
 
-<!-- ## Programming Languages and Technologies:
-<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/c-original.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/python.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/shell.svg' height='30' hspace="20" />  <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/html.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/css.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/js.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/latex.png' width='33' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/sql.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/git.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/nodejs.svg' width='33' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/react.svg' width='33' hspace="20" /> -->
+<!-- now:start -->
+Bridging the gap between modern software practices and mission-critical industrial systems. Updated Apr 10, 2026. Read the full [Now page](https://www.jontobias.com/now/).
+<!-- now:end -->
 
-<!--
-## Subtitles for my Repository:
-| Initials     | Description              |  ▫  | Initials     | Description                |  ▫  | Initials     | Description              |
-| :----------- | :-----------:            | --- | :----------- | :-----------:              | --- | :----------- | :-----------:            |
-| SI           | 🔬 Scientific Initiation |  ▫  | PD           | 📝 Personal Documents      |  ▫  |  OD          | 🌐 Open Documents        |
-| FP           | 🧾 Final Project         |  ▫  | CM           | 📖 Class Material          |  ▫  |  FK            | :octocat: Fork          |
-| TP           | 📚 Templates             |  ▫  | ST           | ⚙️ Settings                 |  ▫  |  OV          |  :closed_umbrella: Obsidian Vault  |
-| HL           | 🛠 HomeLab               |  ▫  | [Kebab]      | :heavy_plus_sign: Projects |  ▫  |              |                          |
--->
+## Contact
 
-<!-- SNAKE CONTRIBUTIONS
-## Contributions ✔:
-![animation](https://raw.githubusercontent.com/jonathantsilva/jonathantsilva/output/github-contribution-grid-snake.svg)
--->
+[Email](mailto:jonathantosilva@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/JonathanTSilva/) · [ORCID](https://orcid.org/0000-0002-2511-259X) · [Website](https://www.jontobias.com)
