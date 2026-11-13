@@ -1,21 +1,10 @@
 <!-- markdownlint-disable MD033 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Jonathan Tobias da Silva, Senior Embedded Software Engineer, MSc EE, Brazil" width="100%">
-</picture>
-<!-- markdownlint-enable MD033 -->
-
-Jonathan builds embedded and industrial-automation software and treats engineering organization as part of the work.
-
-<!-- markdownlint-disable MD033 -->
-<p align="center">
-  <a href="https://www.jontobias.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/cta-dark.svg">
-      <img src="assets/cta-light.svg" alt="Visit jontobias.com" height="56">
-    </picture>
-  </a>
-</p>
+<a href="https://www.jontobias.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" alt="Jonathan Tobias da Silva, Senior Embedded Software Engineer, MSc EE, Brazil. Check out my portfolio, blog, notes and more at jontobias.com" width="100%">
+  </picture>
+</a>
 <!-- markdownlint-enable MD033 -->
 
 ## How I build
