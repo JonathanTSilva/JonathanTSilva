@@ -1,8 +1,8 @@
 <!-- markdownlint-disable MD033 -->
 <a href="https://www.jontobias.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-v3-dark.svg">
-    <img src="assets/banner-v3-light.svg" alt="Jonathan Tobias da Silva, Senior Embedded Software Engineer, MSc EE, Brazil. Check out my portfolio, blog, notes and more at jontobias.com" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-v4-dark.svg">
+    <img src="assets/banner-v4-light.svg" alt="Jonathan Tobias da Silva, Senior Embedded Software Engineer, MSc EE, Brazil. Check out my portfolio, blog, notes and more at jontobias.com" width="100%">
   </picture>
 </a>
 <!-- markdownlint-enable MD033 -->
