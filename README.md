@@ -22,6 +22,7 @@ flowchart LR
 
 Handbook: [Naming](https://github.com/JonathanTSilva/.github/blob/main/handbook/naming.md) · [Branches and commits](https://github.com/JonathanTSilva/.github/blob/main/handbook/branches-and-commits.md) · [Repo anatomy](https://github.com/JonathanTSilva/.github/blob/main/handbook/repo-anatomy.md) · [Security](https://github.com/JonathanTSilva/.github/blob/main/handbook/security.md) · [AI assistance](https://github.com/JonathanTSilva/.github/blob/main/handbook/ai.md)
 
+<!--
 ## Featured projects
 
 | Project | What it does | Status |
@@ -32,6 +33,7 @@ Handbook: [Naming](https://github.com/JonathanTSilva/.github/blob/main/handbook/
 | [jts-website](https://github.com/JonathanTSilva/jts-website) | Personal bilingual website built with Astro and deployed to GitHub Pages | [![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](https://www.repostatus.org/#active) [![CI](https://img.shields.io/github/actions/workflow/status/JonathanTSilva/jts-website/ci.yml?branch=main&style=flat-square&label=ci)](https://github.com/JonathanTSilva/jts-website/actions/workflows/ci.yml) [![Coverage](https://codecov.io/gh/JonathanTSilva/jts-website/graph/badge.svg)](https://codecov.io/gh/JonathanTSilva/jts-website) |
 | [leetsheet](https://github.com/JonathanTSilva/leetsheet) | A TUI-based LeetCode cheatsheet for quick problem walkthroughs in your terminal | [![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](https://www.repostatus.org/#active) [![CI](https://img.shields.io/github/actions/workflow/status/JonathanTSilva/leetsheet/ci.yml?branch=main&style=flat-square&label=ci)](https://github.com/JonathanTSilva/leetsheet/actions/workflows/ci.yml) [![Coverage](https://codecov.io/gh/JonathanTSilva/leetsheet/graph/badge.svg)](https://codecov.io/gh/JonathanTSilva/leetsheet) |
 | [research-pump-cavitation](https://github.com/JonathanTSilva/research-pump-cavitation) | Diagnostic system for hydraulic pump failures by means of electric current analysis and machine learning tools | [![Status](https://img.shields.io/badge/status-inactive-silver?style=flat-square)](https://www.repostatus.org/#inactive) |
+-->
 
 ## Latest writing
 
