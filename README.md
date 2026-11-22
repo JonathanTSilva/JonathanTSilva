@@ -38,10 +38,10 @@ Handbook: [Naming](https://github.com/JonathanTSilva/.github/blob/main/handbook/
 ## Latest writing
 
 <!-- writing:start -->
-- [What Chinese cameras do on the internet](https://www.jontobias.com/blog/2026-11-chinese-cameras-internet.en) (Nov 20, 2026)
-- [My 'almost' low-cost setup](https://www.jontobias.com/blog/2026-11-low-cost-homelab-setup.en) (Nov 19, 2026)
-- [Welcome](https://www.jontobias.com/blog/2026-04-welcome.en) (Apr 20, 2026)
-- [Markdown Cheatsheet — Website Writing Reference](https://www.jontobias.com/blog/2026-03-markdown-cheatsheet.en) (Mar 30, 2026)
+- [What Chinese cameras do on the internet](https://www.jontobias.com/blog/chinese-cameras-internet/) (Nov 20, 2026)
+- [My 'almost' low-cost setup](https://www.jontobias.com/blog/low-cost-homelab-setup/) (Nov 19, 2026)
+- [Welcome](https://www.jontobias.com/blog/welcome/) (Apr 20, 2026)
+- [Markdown Cheatsheet — Website Writing Reference](https://www.jontobias.com/blog/markdown-cheatsheet/) (Mar 30, 2026)
 
 More on the [blog](https://www.jontobias.com/blog/).
 <!-- writing:end -->
