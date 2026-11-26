@@ -38,6 +38,7 @@ Handbook: [Naming](https://github.com/JonathanTSilva/.github/blob/main/handbook/
 ## Latest writing
 
 <!-- writing:start -->
+- [From Windows to Omarchy: my history with Linux on the desktop](https://www.jontobias.com/blog/linux-desktop-journey/) (Nov 25, 2026)
 - [What Chinese cameras do on the internet](https://www.jontobias.com/blog/chinese-cameras-internet/) (Nov 20, 2026)
 - [My 'almost' low-cost setup](https://www.jontobias.com/blog/low-cost-homelab-setup/) (Nov 19, 2026)
 - [Welcome](https://www.jontobias.com/blog/welcome/) (Apr 20, 2026)
